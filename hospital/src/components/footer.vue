@@ -38,7 +38,7 @@ export default {
         // }else{
         //     this.footer=false;
         // }
-        console.log(11)
+        console.log(1)
     }
 }
 </script>
